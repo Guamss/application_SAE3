@@ -1,4 +1,4 @@
-package com.example.application_sae3;
+package com.example.sae3_2222;
 
 import org.junit.Test;
 

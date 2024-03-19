@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.application_sae3"
+    namespace = "com.example.sae3_2222"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.application_sae3"
+        applicationId = "com.example.sae3_2222"
         minSdk = 23
         targetSdk = 34
         versionCode = 1
